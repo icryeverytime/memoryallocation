@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540585938 source:c:\users\luigi\desktop\proyectos\sistemas_operativos\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<time.h>
+	<cstdlib>
+
+1542414310 source:c:\users\luigi\desktop\sistemas_operativos\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+
